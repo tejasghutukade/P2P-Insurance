@@ -1,6 +1,6 @@
 # P2P-Insurance
 
-P2P Isurance Dapp
+P2P Insurance Dapp
   Work in Progress...
 
 Completed Modules
